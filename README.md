@@ -35,7 +35,7 @@ A **tetrahedral mesh** was generated to discretize the geometry, ensuring a bala
 
 ### 4. **Boundary Conditions**  
 - **Fixed Support:** Applied at the stem end (representing the bone-implant interface).  
-- **Load Application:** A force of approximately **3000 N** was applied at the femoral head, simulating the hip joint load during walking.  
+- **Load Application:** A force of approximately **2000 N** was applied at the femoral head, simulating the hip joint load during walking.  
 
 ### 5. **Simulation**  
 A **Static Structural Analysis** was carried out to calculate:  
